@@ -45,6 +45,6 @@ Whether it's a pixel-perfect UI or a robust backend API, I enjoy building end-to
 
 ## 🙋‍♂️ About Me
 
-Hi, I'm Fuhad Saneen (he/him), a passionate software developer who enjoys building scalable and efficient web applications.  
+Hi, I'm Fuhad Saneen v, a passionate software developer who enjoys building scalable and efficient web applications.  
 I'm always eager to explore new tech and collaborate with great minds. Let's build something amazing together! 💻🚀
 
